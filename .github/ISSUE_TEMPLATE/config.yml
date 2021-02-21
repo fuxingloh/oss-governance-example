@@ -2,3 +2,7 @@ contact_links:
   - name: Telegram
     url: https://telegram.com
     about: Support request or question relating to this
+
+  - name: Reddit
+    url: https://reddit.com
+    about: Support request or reddit
