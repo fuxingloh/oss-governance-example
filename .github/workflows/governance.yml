@@ -13,5 +13,5 @@ jobs:
     name: Governance
     runs-on: ubuntu-latest
     steps:
-      - uses: DeFiCh/oss-governance@v1
+      - uses: DeFiCh/oss-governance-bot@v1
 
