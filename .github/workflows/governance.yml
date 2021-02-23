@@ -14,4 +14,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: DeFiCh/oss-governance-bot@v1
+        with:
+          config-path: .github/governance.yml
+          bot-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
 
