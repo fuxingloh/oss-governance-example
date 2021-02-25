@@ -18,4 +18,3 @@ jobs:
           config-path: .github/governance.yml
           bot-token: ${{ secrets.GITHUB_TOKEN }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
-
